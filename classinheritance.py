@@ -10,7 +10,8 @@ class Employee(object):
 # Add your code below!
 class PartTimeEmployee(Employee):
     def full_time_wage(self,hours):
-        return super(PartTimeEmployee,self).calculate_wage(hours)
+        wage = super(PartTimeEmployee,self).calculate_wage(hours-3)
+        return wage
 
 milton = PartTimeEmployee("milton")
 print milton.full_time_wage(10)
