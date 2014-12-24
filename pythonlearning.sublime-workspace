@@ -1,0 +1,644 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"K_",
+				"K_INITIALISE_ZERO"
+			],
+			[
+				"CA",
+				"CALL"
+			],
+			[
+				"INI",
+				"INITIALISE_ZERO"
+			],
+			[
+				"AMA",
+				"AMATRX"
+			],
+			[
+				"ST",
+				"STRESS"
+			],
+			[
+				"CAL",
+				"CALL"
+			],
+			[
+				"S",
+				"STRAN"
+			],
+			[
+				"A",
+				"AMATRX"
+			],
+			[
+				"AM",
+				"AMATRX"
+			],
+			[
+				"N",
+				"NDOFEL"
+			],
+			[
+				"J",
+				"J"
+			],
+			[
+				"MA",
+				"MATRIXMULTIPLY"
+			],
+			[
+				"MAT",
+				"MATRIXTRANSPOSE"
+			],
+			[
+				"c",
+				"C"
+			],
+			[
+				"b",
+				"B"
+			],
+			[
+				"M",
+				"m"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"NODE",
+				"NNODE"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"e",
+				"e	exp"
+			],
+			[
+				"tr",
+				"truestress"
+			],
+			[
+				"err",
+				"err2"
+			],
+			[
+				"GRAD",
+				"GRAD12"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"HRB",
+				"HRB.jpg	w:637 h:637"
+			],
+			[
+				"STRE",
+				"STRESS_D1"
+			],
+			[
+				"DSTRESS",
+				"DSTRESS_VOIGT"
+			],
+			[
+				"DST",
+				"DSTRAN"
+			],
+			[
+				"TWO",
+				"TWO"
+			],
+			[
+				"end",
+				"end2_index"
+			],
+			[
+				"end1",
+				"end1_index"
+			],
+			[
+				"s",
+				"strain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "raw_input.py",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"defa",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ssl",
+				"Set Syntax: LaTeX Memoir"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"subl",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/e-drive/python/first code",
+		"/e-drive/python/first code.py",
+		"/home/hari/Downloads/I. M. Smith, D. V. Griffiths-Programming the Finite Element Method-John Wiley & Sons Inc (1988).pdf",
+		"/media/hari/SR!HARI-HD/edrive/fem_final/matrixgenerator.py",
+		"/media/hari/SR!HARI-HD/backup/input.py",
+		"/media/hari/SR!HARI-HD/backup/wassup",
+		"/media/hari/SR!HARI-HD/backup/hellowolrd.c",
+		"/e-drive/FEM/Scripting,MatL/ReadMe.txt",
+		"/e-drive/FEM/Scripting,MatL/AbaqusFiles/All-Model.py",
+		"/e-drive/FEM/Scripting,MatL/MatlabFiles/Explicit/ModelCalc.m",
+		"/e-drive/FEM/Scripting,MatL/AbaqusFiles/All-Main.py",
+		"/e-drive/FEM/Scripting,MatL/AbaqusFiles/Pois-Analysis2.py",
+		"/home/hari/.bashrc",
+		"/home/hari/I have used cowsay utility to display this cow :D",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17261/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17261/elasticelement.odb",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17260/elasticelement.dat",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17259/elasticelement.dat",
+		"/e-drive/SGP/UEL/My codes/elasticelement/elasticelement.inp",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17260/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17259/xx",
+		"/e-drive/Umat/elasticity/elas_axidisp.inp",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17257/elasticelement.msg",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17256/elasticelement.dat",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17255/elasticelement.dat",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/errorfile.err",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17222/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17255/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17220/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17219/logfile.log",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17219/errorfile.err",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17219/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17219/elasticelement.com",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job.cmd",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17218/xx",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/logfile.log",
+		"/e-drive/abaqus /Scripting,MatL/ReadMe.txt",
+		"/e-drive/Umat/elasticity/Modifiedelastic.for",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/uel/job17257/elasticelement.odb",
+		"/home/hari/Downloads/HQuick_cv.tex",
+		"/home/hari/.cache/.fr-3w6bWR/ABAQUSExample.inp",
+		"/home/hari/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/job14794/fiftythree.inp",
+		"/e-drive/SGP/common_block/Job-1-wsubrUF-Copy.inp",
+		"/e-drive/msgen_trial/n2b.txt",
+		"/e-drive/msgen_trial/v1.f90",
+		"/e-drive/msgen_trial/RandomGenerator.f90",
+		"/e-drive/msgen_trial/n1b.txt",
+		"/d-drive/share/IITMLatextResume-master/Srihari_resume.tex",
+		"/d-drive/share/IITMLatextResume-master/Standard_Resume_Format_Compact_Akshay.cls",
+		"/d-drive/share/IITMLatextResume-master/Master_Resume_Main.tex",
+		"/media/hari/SR!HARI-HD/Placements/40- SOP/vinay.DOC",
+		"/media/hari/SURAJ",
+		"/d-drive/abaqus/readme.txt",
+		"/home/hari/abaqus/6.12-3/SMA/site/abaqus_v6.env",
+		"/d-drive/abaqus/setup",
+		"/run/user/1001/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Fhari%252FDownloads%252Fabaqus6.12.iso/readme.txt",
+		"/home/hari/Downloads/OvhcL040",
+		"/e-drive/acads/sem_5/mechmetlab/Exp1_compression/MML2014_SRIHARI_COMPRESSION.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp9_Nano/MML2014_SRIHARI_NANO.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp1_compression/exp1_1.m",
+		"/home/hari/Downloads/A 0001.txt",
+		"/e-drive/acads/sem_5/mechmetlab/Exp9_Nano/var",
+		"/d-drive/share/modern.family.s03e05.hdtv.xvid-fqm.srt",
+		"/d-drive/share/The.Pianist.2002.1080p.BrRip.x264.YIFY.srt",
+		"/d-drive/share/Modern Family - S03E03 - Phil On Wire.srt",
+		"/home/hari/Downloads/H 001.hys",
+		"/e-drive/octave/fem-fenics-eugenio/gsoc2014.diff",
+		"/e-drive/octave/fem-fenics-eugenio/README",
+		"/e-drive/octave/IITM-Moodle-Downloader/README.md",
+		"/e-drive/octave/IITM-Moodle-Downloader/moodle-downloader.py",
+		"/home/hari/proxy",
+		"/e-drive/octave/fem-fenics-eugenio/COPYING",
+		"/home/hari/Downloads/Files_downloaded_by_AirDroid.zip",
+		"/e-drive/octave/fem-fenics-eugenio/TODO",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/deepu/abq.cmd",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/abaqus/job.cmd",
+		"/home/hari/hs_err_pid19408.log",
+		"/home/hari/texput.log",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/abaqus/errorfile.err",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/deepu/constraint.inp",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/abaqus/job.cmd.o14787",
+		"/home/hari/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/hari/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/abaqus/job.cmd.o14783",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/deepu/errorfile.err",
+		"/home/hari/Downloads/constraint.inp",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/deepu/New Text Document.txt",
+		"/home/hari/Downloads/New Text Document.txt",
+		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/deepu/logfile.log",
+		"/home/hari/Downloads/errorfile.err",
+		"/home/hari/Downloads/fem-fenics-eugenio/README",
+		"/home/hari/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/hari/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/e-drive/acads/sem_5/mechmetlab/Exp7_fatigue/MML2014_SRIHARI_FATIGUE.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Ghostscript",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/exp8_2.m",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/tens.txt",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/exp8_1.m",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/MML2014_SRIHARI_INSTRON.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp7_fatigue/MML2014_SRIHARI_CREEP.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp6_Creep/MML2014_SRIHARI_CREEP.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp4_htt/MML2014_SRIHARI_HIGH_TEMP.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp6_Creep/creepplot.m",
+		"/e-drive/acads/sem_5/EnvDegradation/assignment 1/Assignment_1.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp1_compression/exp1_3.m",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/fig1",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/MML2014_SRIHARI_TENSILE.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/MML2014_SRIHARI_COMPRESSION.tex",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/tensiledata",
+		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/exp1_1.m",
+		"/d-drive/share/modern family/Modern Family S05E05 HDTV x264-LOL.srt",
+		"/d-drive/share/modern family/Modern.Family.S05E04.HDTV.x264-2HD.srt",
+		"/d-drive/share/modern family/Modern Family S05E02 HDTV x264-LOL [eztv].srt",
+		"/home/hari/bluetooth",
+		"/d-drive/share/Modern Family - 06x04 - Marco Polo.KILLERS.English.C.edit.Addic7ed.com.srt",
+		"/d-drive/share/season5/Modern Family S05E01 HDTV x264-LOL [eztv].srt",
+		"/home/hari/56d75v2.inp",
+		"/media/hari/SR!HARI-HD/sheduledbackup/2014-10-13_06.40.52.828087.srihari-Inspiron-7520.ful/ver",
+		"/media/hari/SR!HARI-HD/sheduledbackup/2014-10-13_06.40.52.828087.srihari-Inspiron-7520.ful/sbackup.2014-10-13_06.40.49.539571.log",
+		"/home/hari/remotedroid/RemoteDroidServer.bat",
+		"/home/hari/remote.sh",
+		"/home/hari/brightness.sh",
+		"/home/hari/Desktop/RemoteDroidServer/README.txt",
+		"/home/hari/Desktop/RemoteDroidServer/RemoteDroidServer.bat",
+		"/home/hari/Desktop/RemoteDroidServer/hs_err_pid19408.log",
+		"/home/hari/.cache/.fr-4yAjfP/RemoteDroidServer/README.txt",
+		"/e-drive/HackerRank/whofirst.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"odb",
+			"svars",
+			"print",
+			"j",
+			"A",
+			"K",
+			"GPW",
+			"INCLUDE 'ABA_PARAM.INC'",
+			"CALCULATE_A",
+			"CALCULATE_G",
+			"CALCULATE_ST",
+			"CALCULATE",
+			"INITIALISE",
+			"MATRIX",
+			"MATRIXMULTIPLY",
+			"MATRIX",
+			"m",
+			"DETJ",
+			"MATRIX",
+			"end",
+			"do",
+			"XNUE",
+			"dstran",
+			"nsvint",
+			"stran",
+			"svars",
+			"djac",
+			"wght",
+			"bmat",
+			"stiff_p",
+			"ndim",
+			"dmone",
+			"coord24",
+			"gaussCoord",
+			"K_MATRIX_ZERO",
+			"I",
+			"A",
+			"DETA",
+			"J",
+			"ETA",
+			"XHI",
+			"k_Matrix_Multiply",
+			"do",
+			"end",
+			"NRHS",
+			"MCRD",
+			"N",
+			"MULTIPLY",
+			"ETA",
+			"PROPER",
+			"SDV",
+			"rhs",
+			"RHS",
+			"rhs",
+			"RHS",
+			"rhs",
+			"RHS",
+			"rhs",
+			"RHS",
+			"rhs",
+			"RHS",
+			"rhs",
+			"alph",
+			"ctrl+f",
+			"ctrl+shift+l",
+			"RHS",
+			"dated",
+			"uel",
+			"ndofel",
+			"NDOFEL",
+			"LFLAGS",
+			"ctrl+b",
+			"LFLAGS",
+			"find",
+			"NDOFEL",
+			"command",
+			"f3",
+			"NDOFEL",
+			"ndofel",
+			"NDOFEL",
+			"user element",
+			"compiler",
+			"\\FloatBarrier",
+			"dh",
+			"proxy",
+			" +",
+			"addcontentsline",
+			"Apparatus",
+			"newpage",
+			"\\begin{figure}[ht!]\n\\centering\n\\includegraphics[width=90mm]{fatiguecycle.jpg}\n\\caption{Stress cycles}\n\\label{cyclr}\n\\end{figure}\n",
+			"–",
+			"%",
+			";",
+			"%",
+			";",
+			"sidebar",
+			"large",
+			"course",
+			"education",
+			"datedsection",
+			"}",
+			"texti",
+			"';\n",
+			"HV",
+			"D1",
+			"DSTRESS_VOIGT",
+			"DSTESS_VOIGT",
+			"EG",
+			"bigspace",
+			"most chara",
+			"name: a",
+			"a",
+			"err",
+			"k",
+			"proxy",
+			"D0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"E",
+			"X",
+			"DO",
+			"END",
+			"-",
+			"",
+			" ",
+			"Large",
+			"D2",
+			"DSTRESS",
+			"DSTRAN_VOIGT",
+			"DSTRESS_VOIGT",
+			"bigskip"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "raw_input.py",
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"all-ma",
+				"AbaqusFiles/All-Main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/e-drive/FEM/Scripting,MatL/scripting.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
