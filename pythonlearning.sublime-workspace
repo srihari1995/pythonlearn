@@ -140,10 +140,10 @@
 	"buffers":
 	[
 		{
-			"file": "raw_input.py",
+			"file": "reverse.py",
 			"settings":
 			{
-				"buffer_size": 229,
+				"buffer_size": 149,
 				"line_ending": "Unix"
 			}
 		}
@@ -151,9 +151,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 96.0,
 		"selected_items":
 		[
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
 			[
 				"defa",
 				"Preferences: Key Bindings - Default"
@@ -211,10 +219,6 @@
 				"Set Syntax: LaTeX Memoir"
 			],
 			[
-				"sspy",
-				"Set Syntax: Python"
-			],
-			[
 				"subl",
 				"Sublimerge: Compare to View..."
 			],
@@ -248,6 +252,20 @@
 	},
 	"file_history":
 	[
+		"/e-drive/python/learning/is_prime.py",
+		"/e-drive/python/learning/factorial.py",
+		"/e-drive/python/learning/digit_sum.py",
+		"/e-drive/python/learning/controlflow.py",
+		"/e-drive/python/learning/README.md",
+		"/e-drive/python/learning/carclass.py",
+		"/e-drive/python/learning/classinheritance.py",
+		"/e-drive/python/learning/odbchelper.py",
+		"/e-drive/python/learning/is_int.py",
+		"/e-drive/python/learning/is_even.py",
+		"/e-drive/python/learning/raw_input.py",
+		"/e-drive/SGP/UEL/uelmat.f",
+		"/home/hari/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/e-drive/python/learning/uelmat.f",
 		"/e-drive/python/first code",
 		"/e-drive/python/first code.py",
 		"/home/hari/Downloads/I. M. Smith, D. V. Griffiths-Programming the Finite Element Method-John Wiley & Sons Inc (1988).pdf",
@@ -340,7 +358,6 @@
 		"/run/user/1001/gvfs/sftp:host=gnr.iitm.ac.in,user=mm12b026/userfs/btech/mm12b026/work/deepu/logfile.log",
 		"/home/hari/Downloads/errorfile.err",
 		"/home/hari/Downloads/fem-fenics-eugenio/README",
-		"/home/hari/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/hari/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/e-drive/acads/sem_5/mechmetlab/Exp7_fatigue/MML2014_SRIHARI_FATIGUE.tex",
 		"/e-drive/acads/sem_5/mechmetlab/Ghostscript",
@@ -362,20 +379,7 @@
 		"/d-drive/share/modern family/Modern Family S05E05 HDTV x264-LOL.srt",
 		"/d-drive/share/modern family/Modern.Family.S05E04.HDTV.x264-2HD.srt",
 		"/d-drive/share/modern family/Modern Family S05E02 HDTV x264-LOL [eztv].srt",
-		"/home/hari/bluetooth",
-		"/d-drive/share/Modern Family - 06x04 - Marco Polo.KILLERS.English.C.edit.Addic7ed.com.srt",
-		"/d-drive/share/season5/Modern Family S05E01 HDTV x264-LOL [eztv].srt",
-		"/home/hari/56d75v2.inp",
-		"/media/hari/SR!HARI-HD/sheduledbackup/2014-10-13_06.40.52.828087.srihari-Inspiron-7520.ful/ver",
-		"/media/hari/SR!HARI-HD/sheduledbackup/2014-10-13_06.40.52.828087.srihari-Inspiron-7520.ful/sbackup.2014-10-13_06.40.49.539571.log",
-		"/home/hari/remotedroid/RemoteDroidServer.bat",
-		"/home/hari/remote.sh",
-		"/home/hari/brightness.sh",
-		"/home/hari/Desktop/RemoteDroidServer/README.txt",
-		"/home/hari/Desktop/RemoteDroidServer/RemoteDroidServer.bat",
-		"/home/hari/Desktop/RemoteDroidServer/hs_err_pid19408.log",
-		"/home/hari/.cache/.fr-4yAjfP/RemoteDroidServer/README.txt",
-		"/e-drive/HackerRank/whofirst.cpp"
+		"/home/hari/bluetooth"
 	],
 	"find":
 	{
@@ -544,18 +548,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "raw_input.py",
+					"file": "reverse.py",
 					"settings":
 					{
-						"buffer_size": 229,
+						"buffer_size": 149,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								163,
-								163
+								123,
+								123
 							]
 						],
 						"settings":
@@ -617,6 +621,18 @@
 		"selected_items":
 		[
 			[
+				"read",
+				"README.md"
+			],
+			[
+				"o",
+				"odbchelper.py"
+			],
+			[
+				"uel",
+				"uelmat.f"
+			],
+			[
 				"all-ma",
 				"AbaqusFiles/All-Main.py"
 			]
@@ -638,7 +654,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 211.0,
 	"status_bar_visible": true
 }
