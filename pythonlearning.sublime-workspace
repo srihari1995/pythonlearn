@@ -139,19 +139,11 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "reverse.py",
-			"settings":
-			{
-				"buffer_size": 149,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 96.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -252,13 +244,15 @@
 	},
 	"file_history":
 	[
+		"/e-drive/python/learning/reverse.py",
+		"/e-drive/python/learning/git_cheat_sheet.pdf",
+		"/e-drive/python/learning/controlflow.py",
+		"/e-drive/python/learning/classinheritance.py",
 		"/e-drive/python/learning/is_prime.py",
 		"/e-drive/python/learning/factorial.py",
 		"/e-drive/python/learning/digit_sum.py",
-		"/e-drive/python/learning/controlflow.py",
 		"/e-drive/python/learning/README.md",
 		"/e-drive/python/learning/carclass.py",
-		"/e-drive/python/learning/classinheritance.py",
 		"/e-drive/python/learning/odbchelper.py",
 		"/e-drive/python/learning/is_int.py",
 		"/e-drive/python/learning/is_even.py",
@@ -377,9 +371,7 @@
 		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/tensiledata",
 		"/e-drive/acads/sem_5/mechmetlab/Exp8_tensile/exp1_1.m",
 		"/d-drive/share/modern family/Modern Family S05E05 HDTV x264-LOL.srt",
-		"/d-drive/share/modern family/Modern.Family.S05E04.HDTV.x264-2HD.srt",
-		"/d-drive/share/modern family/Modern Family S05E02 HDTV x264-LOL [eztv].srt",
-		"/home/hari/bluetooth"
+		"/d-drive/share/modern family/Modern.Family.S05E04.HDTV.x264-2HD.srt"
 	],
 	"find":
 	{
@@ -543,35 +535,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "reverse.py",
-					"settings":
-					{
-						"buffer_size": 149,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								123,
-								123
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
